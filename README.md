@@ -1,2 +1,2 @@
 # tryBadges
-![image]({https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg})
+![statsmodel](https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg)
