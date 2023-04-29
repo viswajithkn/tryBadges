@@ -6,6 +6,12 @@
  <a href="https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
             alt="silverkite" width="40" height="45"></a>
-  </p>
+ </p>
+ <p align="center">
+  <a href="https://facebook.github.io/prophet/docs/quick_start.html#python-api">
+  <img src="https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg"
+            alt="statsmodel" width="70" height="65"></a>  
+ </p>
+  
             
 
