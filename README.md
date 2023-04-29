@@ -9,7 +9,7 @@
  </p>
  <p align="center">
   <a href="https://facebook.github.io/prophet/docs/quick_start.html#python-api">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg"
+  <img src="file:///C:/Users/ImageTech/Downloads/DBw61b01.svg"
             alt="meta Prophet" width="70" height="65"></a>  
  </p>
   
