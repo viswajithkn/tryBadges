@@ -5,4 +5,4 @@
             
 <a href="https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
-            alt="silverkite" width="70" height="65"></a>
+            alt="silverkite" width="40" height="45"></a>
